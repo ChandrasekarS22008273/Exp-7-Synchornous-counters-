@@ -101,32 +101,32 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 #### UP COUNTER:
-![image](https://github.com/ChandrasekarS22008273/Exp-7-Synchornous-counters-/assets/119643845/50e03a7f-ba62-49cc-98b4-ff31b39fd3c3)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/21a764f7-7623-4773-9c1a-5596fa793a0c)
 
 
 
 #### DOWN COUNTER:
-![image](https://github.com/ChandrasekarS22008273/Exp-7-Synchornous-counters-/assets/119643845/64ef601d-d8b3-4664-8372-a3efc7c77722)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/c50e6119-92fa-4325-8d4f-48bda2c535c5)
 
 
 
 ### TIMING DIAGRAMS FOR COUNTER  
 #### UP COUNTER
-![image](https://github.com/ChandrasekarS22008273/Exp-7-Synchornous-counters-/assets/119643845/3572f1cb-e964-4801-9895-77632aa25654)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/32c085a6-28b6-471b-a0f6-f4eaf69998ee)
 
 
 #### DOWN COUNTER
-![image](https://github.com/ChandrasekarS22008273/Exp-7-Synchornous-counters-/assets/119643845/196efc1e-1b9c-4090-a581-0f9090984e0a)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/715ea572-9659-4786-a87d-e490376a0ffd)
 
 
 
 ### TRUTH TABLE 
 #### UP COUNTER
-![image](https://github.com/ChandrasekarS22008273/Exp-7-Synchornous-counters-/assets/119643845/ad85d3a3-0e88-4482-bcec-0cb03ece0a00)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/3bb80ba1-802f-4b29-9b05-e2883755bb61)
 
 
 #### DOWN COUNTER
-![image](https://github.com/ChandrasekarS22008273/Exp-7-Synchornous-counters-/assets/119643845/5fe0c173-a259-4765-ba31-861a9f21b0f2)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/26e364d2-d30e-48f8-9e46-5ceeb264fe4d)
 
 
 
